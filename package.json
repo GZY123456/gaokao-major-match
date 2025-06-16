@@ -1,0 +1,27 @@
+{
+  "name": "gaokao-major-match",
+  "version": "1.0.0",
+  "description": "高考专业匹配测试页面",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "vue": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^5.0.0",
+    "@vue/cli-service": "^5.0.0",
+    "@vue/compiler-sfc": "^3.2.0",
+    "gh-pages": "^6.3.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "homepage": "https://GZY123456.github.io/gaokao-major-match"
+}
